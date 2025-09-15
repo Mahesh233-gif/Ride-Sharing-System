@@ -37,7 +37,7 @@ This project demonstrates how a ride-booking system (like Ola/Uber) can be imple
 ## ▶️ How to Run
 1. Clone this repository:
    ```bash
-   git clone https://github.com/<your-username>/RideSharingSystem.git
+   git clone https://github.com/Mahesh233-gif/RideSharingSystem.git
    cd RideSharingSystem
    javac RideSharingSystem.java
    java RideSharingSystem
